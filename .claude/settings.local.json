@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(mkdir -p src/components src/utils src/slides)",
+      "Bash(cp \"../Valura_Logo_Green.svg\" public/)",
+      "Bash(cp \"../valura_logo_compressed.jpg\" public/)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(timeout 10 npx vite --port 5175)"
+    ]
+  }
+}
