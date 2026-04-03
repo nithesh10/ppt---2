@@ -69,8 +69,8 @@ function App() {
       <ProgressBar current={nav.current} total={nav.totalSlides} />
 
       {/* Logo top-right */}
-      <div className="fixed top-4 right-6 z-40 flex items-center gap-2">
-        <img src="/Valura_Logo_Green.png" alt="Valura" className="h-8 rounded-md opacity-80" />
+      <div className="fixed top-4 right-6 z-40 flex items-center gap-3">
+        <img src="/Valura_Logo_Green.png" alt="Valura" className="h-10 w-10 rounded-xl shadow-lg shadow-black/30" />
       </div>
 
       {/* Section badge */}

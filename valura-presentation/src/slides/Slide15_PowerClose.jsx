@@ -23,7 +23,7 @@ export default function Slide15_PowerClose({ phase, registerPhases, slideIndex }
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.6 }}
         >
-          <img src="/Valura_Logo_Green.png" alt="Valura" className="w-16 h-16 mx-auto rounded-xl" />
+          <img src="/Valura_Logo_Green.png" alt="Valura" className="w-20 h-20 mx-auto rounded-2xl shadow-xl shadow-black/40" />
         </motion.div>
 
         <motion.h2

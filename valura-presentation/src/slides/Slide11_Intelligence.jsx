@@ -80,7 +80,7 @@ export default function Slide11_Intelligence({ phase, registerPhases, slideIndex
           >
             <div className="bg-bg-card border border-border rounded-xl p-5 shadow-lg">
               <div className="flex items-center gap-2 mb-3">
-                <img src="/Valura_Logo_Green.png" alt="V" className="w-6 h-6 rounded" />
+                <img src="/Valura_Logo_Green.png" alt="V" className="w-7 h-7 rounded-lg" />
                 <span className="text-xs text-text-muted">Valura Research</span>
               </div>
               <div className="text-sm font-bold text-text-primary mb-1">Global Market Intelligence</div>
